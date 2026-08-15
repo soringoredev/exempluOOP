@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Andrei {
 
     String name;
-    int number;
+    int number = 777;
     char character;
 
     Jora var1;
