@@ -5,4 +5,8 @@ public class Om {
         System.out.println("Sunet ...");
     }
 
+    void pornesteRadioul() {
+        System.out.println("RADIO PORNIT");
+    }
+
 }
